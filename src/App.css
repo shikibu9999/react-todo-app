@@ -27,6 +27,7 @@ button:hover{
 }
 
 input{
+  font-size: 30px;
   width: 300px;
   height: 35px;
 }
